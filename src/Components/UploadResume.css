@@ -1,0 +1,43 @@
+.form-container {
+  height: 50%;
+  width: 50%;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: 5rem;
+}
+.form-step-in {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.next-btn {
+  padding-top: 2rem;
+}
+.form-navigation {
+  display: flex;
+  justify-content: space-around;
+}
+.resume-submit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+  
+
+   
+  
+}
+.resume-section {
+    
+    background-color: #bad4f0;
+    color: white;
+    border: 2px dotted blue; /* Dotted blue border */
+    border-radius: 10px; /* Curved corners */
+    cursor: pointer;
+}
+.upload-resume-text{
+    color: black;
+}
