@@ -1,7 +1,7 @@
 import React from 'react';
-import Sidebar from "../components/ProfilePage/Sidebar";
-import Navbar from "../components/ProfilePage/Navbar";
-import DataTable from "../components/ProfilePage/Table";
+import Sidebar from "../Components/ProfilePage/Sidebar";
+import Navbar from "../Components/ProfilePage/Navbar";
+import DataTable from "../Components/ProfilePage/Table";
 import { Box } from '@mui/material';
 
 const Profile = () => {

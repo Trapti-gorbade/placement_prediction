@@ -1,7 +1,7 @@
 import React from 'react';
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
-import UploadResume from "./components/UploadResume";
+import UploadResume from "./Components/UploadResume";
 import Profile from './routes/Profile';
 function App() {
   return (
