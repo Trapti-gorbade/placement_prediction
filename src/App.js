@@ -1,16 +1,14 @@
-import React from 'react';
-import './App.css';
-import { Route, Routes } from 'react-router-dom';
-import Home from "./routes/Home";
+import React from "react";
+import "./App.css";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import UploadResume from "./Components/UploadResume";
 function App() {
   return (
-    <>
-    <Routes>
-      Home 
-      <Route path="/" element={<Home/>}></Route>
-    </Routes>
-    </>
-    
+    <div>
+      <Routes>
+        <Route path="/upload" element={<UploadResume></UploadResume>}></Route>
+      </Routes>
+    </div>
   );
 }
 
