@@ -1,6 +1,6 @@
 import React from 'react';
 import { Avatar, Button, Box, Typography } from '@mui/material';
-
+import {useState} from 'react';
 const Sidebar = ({ gender }) => {
   const avatarUrl =
     gender === 'male'
@@ -11,13 +11,15 @@ const Sidebar = ({ gender }) => {
     <Box
       sx={{
         width: '240px',
-        height: '100vh',
-        backgroundColor: '#1565c0',
+        height: '101.2vh',
+        backgroundColor: '#2A6BAC',
         color: '#ffffff',
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
         padding: '20px',
+        mt: '-10px',
+        ml:'-8px'
       }}
     >
       <Avatar
@@ -37,11 +39,12 @@ const Sidebar = ({ gender }) => {
         <Button
           key={index}
           variant="contained"
+
           sx={{
-            width: '100%',
+            width: '102%',
             marginBottom: 4,
-            backgroundColor: '#1976d2',
-            boxShadow:'2.4px 2.4px 3.2px rgba(18, 17, 17, 0.22) ',
+            backgroundColor: 'rgba(18, 160, 226, 0.64)',
+            boxShadow:'0 4px 2px rgba(61, 60, 60, 0.64) ',
             '&:hover': {
               backgroundColor: '#0087bd',
             },

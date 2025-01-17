@@ -9,7 +9,10 @@ const Navbar = () => {
       sx={{
         backgroundColor: '#1976d2',
         zIndex: 1201, 
-        width: '100%',
+        width: '101%',
+        mt:'-10px',
+        ml:'-8px',
+        
       }}
     >
       <Toolbar>
