@@ -1,6 +1,6 @@
 import { styled } from "@mui/material/styles";
 import Button from "@mui/material/Button";
-import CloudUploadIcon from "@mui/icons-material/CloudUpload";
+
 import React, { useState, useEffect } from "react";
 import TextField from "@mui/material/TextField";
 import "./UploadResume.css";
