@@ -1,10 +1,36 @@
 import { styled } from "@mui/material/styles";
 import Button from "@mui/material/Button";
 import CloudUploadIcon from "@mui/icons-material/CloudUpload";
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import TextField from "@mui/material/TextField";
 import "./UploadResume.css";
 function UploadResume() {
+
+ 
+      const sendData=async()=>{
+        try{
+          alert("Hello")
+          const response = await fetch("http://localhost:8000/api/auth/save_user_data", {
+            method : "POST",
+            headers : {
+              "Content-Type" : "application/json"
+            },
+            body : JSON.stringify(formData)
+          })
+          const json_reponse = await response.json();
+          if (json_reponse.success) {
+            console.log("User Data saved to DB");
+          } else {
+            console.error("Failed to save user data:", json_reponse.message);
+          }
+        }
+        catch(err)
+        {
+          console.error("Error saving user data:", err);
+        }
+      }
+     
+
   const VisuallyHiddenInput = styled("input")({
     clip: "rect(0 0 0 0)",
     clipPath: "inset(50%)",
@@ -18,6 +44,9 @@ function UploadResume() {
   });
   const [steps, setSteps] = useState(1);
   const [formData, setFormData] = useState({
+    resume : {
+      file : ""
+    },
     personal: {
       name: "",
       email: "",
@@ -65,6 +94,7 @@ function UploadResume() {
   });
 
   const handleChange = (section, field, value) => {
+    console.log(value.name)
     setFormData((prev) => ({
       ...prev,
       [section]: {
@@ -74,6 +104,7 @@ function UploadResume() {
     }));
   };
 
+  
   const handleNext = () => setSteps((prev) => prev + 1);
   const handlePrev = () => setSteps((prev) => prev - 1);
 
@@ -86,9 +117,28 @@ function UploadResume() {
           <div className="form-step">
             
             <div className="resume-section">
-               
-              <div className="resume-submit">
+              <TextField
+                    label="resume"
+                    variant="filled"
+                    type="resume path"
+                    value={formData.resume.file}
+                    onChange={(e) =>
+                      handleChange("resume", "file", e.target.value)
+                    }
+                    fullWidth
+              />
+              {/* <div className="resume-submit">
                 <p className="upload-resume-text">Upload Your Resume</p>
+                <TextField
+                  label="resume"
+                  variant="filled"
+                  type="resume path"
+                  value={formData.resume.file}
+                  onChange={(e) =>
+                    handleChange("resume", "file", e.target.value)
+                  }
+                  fullWidth
+                />
                 <Button
                   component="label"
                   role={undefined}
@@ -99,11 +149,11 @@ function UploadResume() {
                   Upload files
                   <VisuallyHiddenInput
                     type="file"
-                    onChange={(event) => console.log(event.target.files)}
+                    onChange={(e) => handleChange("resume", "file", e.target.files[0])}
                     multiple
                   />
                 </Button>
-              </div>
+              </div> */}
             </div>
             <h3>Personal Details</h3>
             <div className="form-step-in">
@@ -369,12 +419,14 @@ function UploadResume() {
           )}
           {steps === 7 && (
             <div className="next-btn">
+             
               <Button
                 variant="contained"
-                onClick={() => alert(JSON.stringify(formData))}
+                onClick={sendData}
               >
                 Submit
               </Button>
+              
             </div>
           )}
         </div>
