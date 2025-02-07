@@ -1,0 +1,18 @@
+Opportunity with Noovosoft: 
+
+Stage 1: Intern 
+The goal is to give the intern a solid and practical basis of modern web-based software development. This includes:  
+Modern software development tools, e.g.: Linux/Windows administration, Git, Docker, IDE  
+General software development practices like clean code, software patterns and testing.  
+Programming language paradigms using high level languages like Java/Kotlin, Python and JavaScript/TypeScript.  
+Web frameworks and APIs (Application Programming Interface)  
+Relational databases and data streaming platforms. 
+Web based UI and data visualization frameworks.  
+Each intern will first go through the common training sessions and later work on real-world applications with their mentor.  
+Tentative internship start date: 1st August 2024.
+Internship duration: 12 months
+Internship stipend: 18,000/Month (fixed). 
+Stage 2: Application Developer 
+She/he will join a team and work on a project. 
+CTC: INR 6,50,000/Year (minimum) and is subject to vary as per performance in the interview rounds.
+Employee benefits as per company policy.

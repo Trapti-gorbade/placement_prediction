@@ -1,0 +1,39 @@
+Equifax is seeking creative, high-energy and driven software engineers with hands-on development skills
+ to work on a variety of meaningful projects. Our software engineering positions provide you the
+ opportunity to join a team of talented engineers working with leading-edge technology. You are ideal for
+ this position if you are a forward-thinking, committed, and enthusiastic software engineer who is
+ passionate about technology.
+ What you’ll do
+ ● Design requirements on small systems or modules of medium systems (large scale) environment
+ and technical documentation.
+ ● Applybasic principles of software engineering and follow instructions.
+ ● Provide meaningful feedback on the release process, code review, and design review.
+ ● Easily absorb and apply new information.
+ ● Display a cooperative attitude and share knowledge.
+ ● Apply modern software development practices (serverless computing, microservices architecture,
+ CI/CD, infrastructure-as-code, etc.)
+ ● Workacross teams to integrate our systems with existing corporate product platforms
+ ● Participate in technology roadmap and architecture discussions to turn business requirements
+ and vision into reality.
+ ● Participate in a tight-knit engineering team employing agile software development practices.
+ ● Leverage automation within scope of effort
+ What experience you need
+ ● Bachelor's degree (Graduate 2025)- CS/IT/E&TC
+ ● Experience with Java software programming experience
+ ● Experience with Cloud technology: GCP, AWS, or Azure
+ What could set you apart
+ ● Self-starter that identifies/responds to priority shifts with minimal supervision
+ ● UIdevelopment (e.g. HTML, JavaScript, Angular and Bootstrap)
+ ● Experience with backend technologies such as JAVA/J2EE, SpringBoot, SOA and Microservices
+ ● Source code control management systems (e.g. SVN/Git, Github) and build tools like Maven &
+ Gradle.
+ ● Agile environments (e.g. Scrum, XP)
+ ● Relational databases (e.g. SQL Server, MySQL)
+ ● Atlassian tooling (e.g. JIRA, Confluence, and Github)
+ ● Developing with modern JDK (v1.7+)
+ ● Automated Testing: JUnit, Selenium, LoadRunner, SoapUI
+ Are you ready to power your possible? Apply today, and get started on a path toward an exciting new
+ career at Equifax, where you can make a difference!
+ Equifax is an Equal Opportunity Employer. All qualified applicants will receive consideration
+ for employment without regard to race, color, religion, sex, sexual orientation, gender identity,
+ national origin, disability, or status as a protected veteran.

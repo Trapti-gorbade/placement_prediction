@@ -1,0 +1,45 @@
+Location: Remote
+ Type: Full-Time
+ Experience Level: Entry-Level
+ About Us: Welcome to WisdmLabs, where innovation meets excellence! We are a dynamic tech
+ company dedicated to transforming business challenges into exceptional technical solutions. If
+ you're a fresh graduate passionate about coding and eager to make an impact, this is the place
+ for you. Join us and be part of a team that's shaping the future with cutting-edge technologies.
+ Job Description: As a Junior Software Engineer at WisdmLabs, you'll dive into a collaborative and
+ fast-paced environment where your ideas and skills will thrive. You will work closely with our
+ experienced developers and business analysts to understand complex business problems and
+ create top-notch technical solutions. Your primary focus will be on building and maintaining web
+ applications using modern technologies.
+ Key Responsibilities:
+ ● Collaborate with cross-functional teams to understand business requirements and
+ translate them into technical solutions.
+ ● Developandmaintain web applications using Wordpress,JavaScript and React.
+ ● CustomizeandmanageWordPress sites to enhance functionality and user experience.
+ ● Workwithcloudtechnologies, primarily AWS and GCP, to deploy and manage
+ applications.
+ ● Writeclean, efficient, and well-documented code.
+ ● Participate in code reviews and contribute to team best practices.
+ ● Continuously learn and adapt to new technologies and industry trends.
+ Required Skills and Qualifications:
+ ● Bachelor's degree in Computer Science, Information Technology, or a related field.
+ ● Proficiency in JavaScript and familiarity with React.
+ ● Basicknowledge of WordPress development.
+ ● Understanding of cloud services, preferably AWS and GCP.
+ ● Strongproblem-solving skills and the ability to understand and address business
+ challenges.
+ ● Excellent communication skills and a collaborative mindset.
+ ● Eagerness to learn and grow in a fast-paced environment.
+Preferred Qualifications:
+ ● Internship or project experience with JavaScript, React, WordPress, AWS, or GCP.
+ ● Familiarity with agile development methodologies.
+ ● Knowledgeofversion control systems (e.g., Git).
+ WhyJoin Us?
+ ● Opportunity to work on exciting projects with a talented team.
+ ● Continuous learning and professional development opportunities.
+ ● Friendly and inclusive work environment.
+ ● Competitive salary and benefits package.
+ ● Chancetomakearealimpact and grow your career.
+ The Money Talk:
+ Training Days (6 months): INR 15,000/month
+ After You WowUs: INR 5,00,000 to 6,50,000 per annum (post confirmation)
+ Join us in revolutionizing the tech industry, one brilliant solution at a time!

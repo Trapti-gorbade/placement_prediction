@@ -1,0 +1,58 @@
+Job description 
+Job Title: AI / Deep Learning Intern 
+Work from Office (Hybrid Mode) 
+Location: Hinjewadi Phase 2, Pune 
+Stipend: 3K- 5K per month  
+Duration: 6 months 
+Immediate Joiner 
+About Company: 
+AI Unika Technologies is an innovative Indian start-up committed to enhancing the daily 
+lives of individuals through cutting-edge artificial intelligence technology. Our mission is to 
+create AI-driven solutions that transform the way people live, work, and connect. From 
+healthcare to finance, education to entertainment, our solutions make a difference in diverse 
+sectors. We are looking for dynamic individuals who want to be part of our mission to pave 
+the way for India's technological advancement. 
+Role Description: 
+This is a full-time, role as an Artificial Intelligence/ Deep Learning Intern, you will contribute 
+to the development of innovative AI models and software solutions aimed at addressing real- 
+world challenges across various sectors. You will work closely with cross-functional teams to 
+identify business opportunities and provide customized solutions. Your role involves 
+supporting talented engineers, designers, and data scientists in implementing and maintaining 
+these models and solutions. 
+Roles and Responsibilities: 
+1. Work with the AI team to develop and enhance AI-powered models. 
+2. Develop and train AI models using various machine-learning techniques. 
+3. Test and evaluate the performance of AI models. 
+4. Collaborate with developers and designers to integrate AI technology into our products. 
+5. Stay up-to-date with the latest AI trends and technologies.
+Qualifications and Skills Required: 
+1. Currently pursuing or recently completed a degree in computer science, machine learning, 
+data science, or a related field. 
+2. Strong background in Computer Vision concepts such as object detection, tracking, 
+classification, recognition, scene understanding, and facial expression analysis. Proficiency in 
+Image Processing with hands-on expertise. 
+3. Experience with NLP problems such as intent detection, sentiment analysis, NER, etc. 
+4.Decent understanding of Machine Learning techniques, especially deep learning. 
+5. Knowledge of AI frameworks, preferably Keras, TensorFlow. 
+6. Familiarity with conversational flow development using voice and text-based NLP channels 
+like Amazon Alexa, Slack, Cortana, etc., is a bonus. 
+7. Strong programming skills, with experience in Python, C++, and Java. 
+8. Knowledge of cloud computing platforms such as AWS, Microsoft Azure, or Google 
+Cloud Platform. 
+9. Demonstrated ability to apply innovative approaches to problem-solving in a fast-paced, 
+dynamic environment. 
+10. Excellent communication and presentation skills with the ability to communicate 
+effectively with both technical and non-technical stakeholders. 
+11. Demonstrated the ability to work collaboratively and effectively with cross-functional 
+teams. 
+12. Knowledge of Chabot platforms and experience in the development of chatbots and other 
+AI, ML, and NLP technologies is a bonus. 
+Technical Skills Required: 
+1. Programming Languages: Python 
+2. Database: SQL, Cassandra 
+3. Python Libraries: Numpy, Pandas, Scikit-Learn 
+4. Operating System: Ubuntu, Windows 
+5. Code Repository Tools: Git 
+6. Data Analysis Libraries: Tensor Flow, Pandas, NumPy, ScikitLearn, Matplotlib, and 
+TensorBoard. 
+Link to apply: https://forms.gle/q2BjiVppjfA4SgQaA 
