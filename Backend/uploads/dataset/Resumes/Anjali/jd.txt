@@ -1,0 +1,18 @@
+Job Location	Pune
+Educational Qualification (Please specify branch/streams)	B.Tech. in Computer Science / IT/ Electronics and Telecommunication
+Master’s in computer application
+Year of Graduation	2025
+Eligibility 	60% or equivalent CGPA and above in the graduation / post-graduation course (whichever is being pursued currently) without any backlog subjects in the previous semesters
+Job Descriptions 
+(Few lines about the position which will be visible to candidates)
+If more details, then feel free to attach a detailed pre-defined JD with this format
+ 	•	The candidate must have excellent communication, articulation, and presentation skills
+•	Must have strong problem skills and desire to learn new tools and technologies
+•	Must have aptitude towards programming and developing a high quality, error free code 
+•	Should have awareness of any or more relevant technologies: Angular or similar web development framework, Java, Python, JavaScript, Soap & Restful Webservices, XML and Databases (RDBMS or No SQL)
+•	Must be open to working in overlapping time zones as our teams are globally distributed 
+Other Important Skills
+ 	•	Self-driven and motivated
+•	Good interpersonal and presentation skills
+•	Ability to build relationships and Team Player
+

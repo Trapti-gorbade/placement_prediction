@@ -1,0 +1,18 @@
+1. Build reusable code and libraries for future use
+ 2. Optimize application for maximum speed, scalability and security
+ 3. Design scalable and effective database schemas for best 
+performance
+ 4. Develop/design user interfaces for client and server side portals
+ 5. Build APIs, UIs or fullstack application based on the client requirements
+ 6. Collaborate with other team members and stakeholder
+ Responsibilities
+ 1. Proficient understanding of web markup, including HTML5, CSS3
+ 2. Proficiency in, at least, one programming language such as Java, C, 
+C++, C# or Python
+ 3. Understanding of core programming concepts and OOP concepts
+ 4. In-depth knowledge of Data Structures and its applications
+ 5. Understanding relational and non-relational databases and their uses
+ 6. Positive outlook towards problem solving
+ 7. Love to work on cutting edge technology
+ 8. Ability to work in a dynamic environment using agile methodologies
+ 9. Strong analytical and problem solving skills

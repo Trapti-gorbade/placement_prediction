@@ -1,0 +1,37 @@
+Engineering Intern with ConnectWise
+General Summary:
+The Engineering Intern provides support for the Engineering teams and is responsible for assisting with the 
+development of high-quality, innovative, fully performing software in compliance with coding standards. This role 
+works in partnership with Software and DevOps Engineering teams to assist with ensuring that software 
+deliverables, including designs, codes, and tests, are completed in a timely manner while remaining aligned with 
+industry and organizational standards.
+
+Essential Duties & Responsibilities:
+• Provides support to the Engineering teams, with a high attention to detail
+• Designs, builds, and maintains large-scale production services, web applications, data pipelines, and 
+streaming systems 
+• Works on systems critical to the company’s current and future operations 
+• Assists with debugging production issues across services and multiple levels of the stack 
+• Assists with the improvement of organizational engineering standards, tooling, and processes 
+• Participates in the testing process through test review and analysis, test witnessing, and certification of 
+software 
+• Assists with the evaluation of codes to ensure validity, proper structure, alignment with industry 
+standards, and compatibility with operating systems 
+
+Knowledge, Skills, and/or Abilities Required:
+• Ability to perform routine situations and procedures with limited supervision
+• Excellent customer service skills
+• Strong team player with ability to build positive and collaborative relationships within the ConnectWise 
+organization
+• Knowledge with a variety of the field's concepts, practices, and procedures 
+• Ability to work constructively and independently in a fast paced, multi-tasking environment 
+• Knowledge of programming languages and software basics 
+• Understanding of relevant software development tools including version control, build processes, 
+debuggers, and test frameworks
+• Basic knowledge of the SDLC
+
+Educational/Vocational/Previous Experience Recommendations:
+• Currently pursuing a bachelor's degree in Engineering or related IT field 
+• Requires limited knowledge of operations procedures and tools
+• Preferred: Experience with programming and/or scripting
+

@@ -25,3 +25,4 @@ yarn-error.log*
 #Python
 /Backend/env
 /Backend/__pycache__
+/Backend/.env
