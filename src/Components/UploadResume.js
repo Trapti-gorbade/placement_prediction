@@ -5,9 +5,7 @@ import Button from "@mui/material/Button";
 
 import React, { useState } from "react";
 import CloudUploadIcon from "@mui/icons-material/CloudUpload";
-
-
-
+import React, { useState } from "react";
 import TextField from "@mui/material/TextField";
 import "./UploadResume.css";
 function UploadResume() {
